@@ -9,6 +9,8 @@ authors = [
 requires-python = ">=3.11"
 dependencies = [
     "groq>=1.7.0",
+    "pypdf>=6.16.2",
+    "python-docx>=1.2.0",
     "python-dotenv>=1.2.3",
 ]
 
